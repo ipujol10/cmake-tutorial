@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step1/CMakeLists.txt"
+  "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step1/TutorialConfig.h.in"
   "CMakeFiles/3.22.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
@@ -38,6 +39,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

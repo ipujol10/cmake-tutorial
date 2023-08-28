@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step1_build
 
 CXX_FLAGS = -std=gnu++11
 
