@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step3_build -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step3/MathFunctions
 
-CXX_FLAGS = -std=gnu++11
+CXX_FLAGS = 
 
