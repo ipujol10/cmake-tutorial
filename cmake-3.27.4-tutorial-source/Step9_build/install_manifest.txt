@@ -1,0 +1,5 @@
+/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctions.a
+/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libSqrtLibrary.a
+/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/MathFunctions.h
+/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/bin/Tutorial
+/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/TutorialConfig.h
