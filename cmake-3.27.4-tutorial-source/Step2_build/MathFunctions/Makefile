@@ -154,30 +154,6 @@ MathFunctions.cxx.s:
 	cd /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/MathFunctions.dir/build.make MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.s
 .PHONY : MathFunctions.cxx.s
 
-mysqrt.o: mysqrt.cxx.o
-.PHONY : mysqrt.o
-
-# target to build an object file
-mysqrt.cxx.o:
-	cd /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/MathFunctions.dir/build.make MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o
-.PHONY : mysqrt.cxx.o
-
-mysqrt.i: mysqrt.cxx.i
-.PHONY : mysqrt.i
-
-# target to preprocess a source file
-mysqrt.cxx.i:
-	cd /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/MathFunctions.dir/build.make MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.i
-.PHONY : mysqrt.cxx.i
-
-mysqrt.s: mysqrt.cxx.s
-.PHONY : mysqrt.s
-
-# target to generate assembly for a file
-mysqrt.cxx.s:
-	cd /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/MathFunctions.dir/build.make MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.s
-.PHONY : mysqrt.cxx.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -190,9 +166,6 @@ help:
 	@echo "... MathFunctions.o"
 	@echo "... MathFunctions.i"
 	@echo "... MathFunctions.s"
-	@echo "... mysqrt.o"
-	@echo "... mysqrt.i"
-	@echo "... mysqrt.s"
 .PHONY : help
 
 

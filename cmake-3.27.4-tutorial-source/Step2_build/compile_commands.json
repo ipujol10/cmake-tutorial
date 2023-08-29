@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build",
+  "command": "/usr/bin/c++  -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2/MathFunctions -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2/tutorial.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2/tutorial.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2_build/MathFunctions",
+  "command": "/usr/bin/c++   -std=gnu++11 -o CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2/MathFunctions/MathFunctions.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step2/MathFunctions/MathFunctions.cxx"
+}
+]
