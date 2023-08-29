@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230829-1014-Experimental"
+	Name="MSI"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="MSI"
+	OSRelease="5.10.16.3-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Fri Apr 2 22:23:49 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="9216"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="7168"
+	TotalPhysicalMemory="25537"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2208"
+	>
+	<Configure>
+		<StartDateTime>Aug 29 12:14 CEST</StartDateTime>
+		<StartConfigureTime>1693304079</StartConfigureTime>
+		<ConfigureCommand>"/usr/bin/cmake" "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step6"</ConfigureCommand>
+		<Log>-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step6_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Aug 29 12:14 CEST</EndDateTime>
+		<EndConfigureTime>1693304080</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

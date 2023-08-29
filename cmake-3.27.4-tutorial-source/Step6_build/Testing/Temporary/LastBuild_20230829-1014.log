@@ -1,0 +1,9 @@
+[ 16%] Building CXX object MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o
+[ 33%] Linking CXX static library libSqrtLibrary.a
+[ 33%] Built target SqrtLibrary
+[ 50%] Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o
+[ 66%] Linking CXX static library libMathFunctions.a
+[ 66%] Built target MathFunctions
+[ 83%] Building CXX object CMakeFiles/Tutorial.dir/tutorial.cxx.o
+[100%] Linking CXX executable Tutorial
+[100%] Built target Tutorial
