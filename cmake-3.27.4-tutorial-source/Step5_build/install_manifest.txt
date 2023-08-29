@@ -1,0 +1,5 @@
+/usr/local/lib/libMathFunctions.a
+/usr/local/lib/libSqrtLibrary.a
+/usr/local/include/MathFunctions.h
+/usr/local/bin/Tutorial
+/usr/local/include/TutorialConfig.h

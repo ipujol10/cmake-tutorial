@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5_build",
+  "command": "/usr/bin/c++  -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5_build -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/MathFunctions -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/tutorial.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/tutorial.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5_build/MathFunctions",
+  "command": "/usr/bin/c++   -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/MathFunctions/mysqrt.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/MathFunctions/mysqrt.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5_build/MathFunctions",
+  "command": "/usr/bin/c++ -DUSE_MYMATH  -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/MathFunctions/MathFunctions.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step5/MathFunctions/MathFunctions.cxx"
+}
+]
