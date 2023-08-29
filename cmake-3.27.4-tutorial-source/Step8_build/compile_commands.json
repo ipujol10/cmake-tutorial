@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build",
+  "command": "/usr/bin/c++  -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/tutorial.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/tutorial.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build/MathFunctions",
+  "command": "/usr/bin/c++   -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/MakeTable.dir/MakeTable.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/MakeTable.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/MakeTable.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build/MathFunctions",
+  "command": "/usr/bin/c++  -I/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build/MathFunctions -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/mysqrt.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/mysqrt.cxx"
+},
+{
+  "directory": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8_build/MathFunctions",
+  "command": "/usr/bin/c++ -DUSE_MYMATH  -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o -c /home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/MathFunctions.cxx",
+  "file": "/home/inaki/c++/cmake-tutorial/cmake-3.27.4-tutorial-source/Step8/MathFunctions/MathFunctions.cxx"
+}
+]
